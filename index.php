@@ -1,5 +1,5 @@
 <?
 
-echo "Hello from Michelles Pod " . $_SERVER['SERVER_ADDR'];
+echo "Hello from Michelle's Pod " . $_SERVER['SERVER_ADDR'];
 
 ?>
